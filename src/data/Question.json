@@ -1,0 +1,28 @@
+[
+    {
+      "title": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "title": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "title": "What is the largest mammal on Earth?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Lion"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "title": "Which gas do plants use for photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "title": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Hg", "Pb"],
+      "correctAnswerIndex": 0
+    }
+  ]
+  
